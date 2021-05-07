@@ -1,0 +1,140 @@
+h1,h2,h3,h4{
+margin:10px;}
+
+p{b
+color: white;
+ background:none;
+ text-align: center;
+}
+p ul{
+background:none;}
+
+
+*{
+margin:0px;
+padding:0px; }
+body h1 {
+text-align: center;
+color:black;
+}
+
+body h2 {
+color:black;
+text-align: center;
+}
+#contenido ul{
+background:black;}
+
+body h3 {color:black;
+}
+#contenedor{
+width:1000px;
+margin:0 auto;
+}
+
+#contenidoi {
+
+width:940px;
+float:left;
+background:none;
+padding:30px;
+font-family:Algeria;
+font-size:25px; 
+}
+#contenido{
+padding:10px;
+background:none;
+font-family:Algeria;
+font-size:25px; 
+}
+#contenido ul{
+	list-style-type:none; 
+}
+
+#menu ul{
+	list-style: none;
+}
+#menu>ul>li{
+	float: left;
+	margin-left: 5px;
+    font-size: 15px;
+    }
+
+#menu ul li{
+	margin: 0 15px;
+	padding: 15px;
+	font-family: Algeria;
+    
+ 
+}
+
+a{
+    color: black;
+}
+
+#menu li ul{
+	display:none;}
+
+#menu li:hover>ul{
+	display:block;
+	position: absolute;}
+	
+	
+	
+#menu a {text-decoration:underline;
+}
+
+#menu a:hover{text-decoration:pink;
+border-radius: 5px;
+border: 10px;
+}
+
+#menu{
+height:60px;
+background:white;
+border:5px groove #F333FF;
+border-radius:20px;
+
+ }
+
+
+#barra-lateral {width:200px;
+float:left;
+}
+.social a{
+display:block;
+}
+
+body{
+background-image:url("fondo.jpg");
+}
+
+body p {
+color:black;
+}
+
+body ul li{
+color:white;
+}
+
+body form {
+color:white;}
+
+form p{
+text-align:left;}
+table{
+	color:black;
+	background:none; 
+}
+#fondo-lateral{
+background-image:url(fondobarra.jpg); 
+overflow:hidden;}
+
+#pie {background:none;
+color:white;
+height:60px;
+clear:left;}
+#pie p{
+font-family:Verdana;
+}
+
